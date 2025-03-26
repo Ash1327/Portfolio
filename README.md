@@ -36,7 +36,7 @@ git clone <repository-url><br>
 
 ## 🔗 Live Demo
 
-If hosted online, provide a live demo link here!
+Link : https://ashish-sharma-tech-portfolio.netlify.app/
 
 ## 📜 License
 
