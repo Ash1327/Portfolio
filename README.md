@@ -4,6 +4,10 @@
 
 Welcome to my personal portfolio website, built using only HTML and CSS! This site showcases my projects, skills, and ways to connect with me.
 
+## 🔗 Live Demo
+
+Link : https://ashish-sharma-tech-portfolio.netlify.app/
+
 ## 🌟 Features
 
 ✅ Responsive Design – Looks great on all devices📱💻<br>✅ Minimalist & Clean UI – Simple yet elegant✨<br>✅ Project Showcase – My best work displayed professionally 🎯<br>✅ Easy Navigation – User-friendly and intuitive 🧭<br>✅ Contact Section – Let's connect! 📩
@@ -34,9 +38,6 @@ git clone <repository-url><br>
 
 🎭 Modify index.html to update content.<br>🎨 Tweak style.css for custom styling.<br>🖼️ Replace images in the images/ folder with your own.
 
-## 🔗 Live Demo
-
-Link : https://ashish-sharma-tech-portfolio.netlify.app/
 
 ## 📜 License
 
